@@ -2,10 +2,10 @@ package com.hongzhi.material.treerecyclerview.demo.city;
 
 
 
-import com.hongzhi.material.treerecyclerview.annotation.TreeDataType;
-import com.hongzhi.material.treerecyclerview.item.city.AreaItem;
-import com.hongzhi.material.treerecyclerview.item.city.CountyItemParent;
-import com.hongzhi.material.treerecyclerview.item.city.ProvinceItemParent;
+import com.hongzhi.treerecyclerviewlib.annotation.TreeDataType;
+import com.hongzhi.material.treerecyclerview.bean.city.AreaItem;
+import com.hongzhi.material.treerecyclerview.bean.city.CountyItemParent;
+import com.hongzhi.material.treerecyclerview.bean.city.ProvinceItemParent;
 
 import java.util.List;
 

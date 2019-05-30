@@ -1,8 +1,8 @@
 package com.hongzhi.material.treerecyclerview.persenter;
 
 import android.content.Context;
-import com.hongzhi.material.treerecyclerview.demo.Sort.TraceBackTreeItemGroup;
-import com.hongzhi.material.treerecyclerview.demo.Sort.TraceBackTreelItem;
+import com.hongzhi.material.treerecyclerview.bean.sort.TraceBackTreeItemGroup;
+import com.hongzhi.material.treerecyclerview.bean.sort.TraceBackTreelItem;
 
 import java.util.ArrayList;
 import java.util.List;

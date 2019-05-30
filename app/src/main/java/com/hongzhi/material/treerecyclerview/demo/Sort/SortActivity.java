@@ -5,12 +5,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.widget.TextView;
-import com.hongzhi.material.treerecyclerview.item.sort.IndexBar;
 import com.hongzhi.material.treerecyclerview.R;
-import com.hongzhi.material.treerecyclerview.TreeRecyclerType;
-import com.hongzhi.material.treerecyclerview.item.TreeItem;
-import com.hongzhi.material.treerecyclerview.item.sort.SortGroupItem;
-import com.hongzhi.material.treerecyclerview.widget.TreeSortAdapter;
+import com.hongzhi.material.treerecyclerview.bean.sort.TraceBackTreeItemGroup;
+import com.hongzhi.treerecyclerviewlib.TreeRecyclerType;
+import com.hongzhi.treerecyclerviewlib.item.TreeItem;
+import com.hongzhi.treerecyclerviewlib.item.sort.IndexBar;
+import com.hongzhi.treerecyclerviewlib.widget.TreeSortAdapter;
 
 import java.util.ArrayList;
 import java.util.List;

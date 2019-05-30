@@ -8,11 +8,11 @@ import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import com.alibaba.fastjson.JSON;
 import com.hongzhi.material.treerecyclerview.R;
-import com.hongzhi.material.treerecyclerview.TreeRecyclerAdapter;
-import com.hongzhi.material.treerecyclerview.TreeRecyclerType;
-import com.hongzhi.material.treerecyclerview.factory.ItemHelperFactory;
-import com.hongzhi.material.treerecyclerview.item.TreeItem;
-import com.hongzhi.material.treerecyclerview.item.TreeItemGroup;
+import com.hongzhi.treerecyclerviewlib.TreeRecyclerAdapter;
+import com.hongzhi.treerecyclerviewlib.TreeRecyclerType;
+import com.hongzhi.treerecyclerviewlib.factory.ItemHelperFactory;
+import com.hongzhi.treerecyclerviewlib.item.TreeItem;
+import com.hongzhi.treerecyclerviewlib.item.TreeItemGroup;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
